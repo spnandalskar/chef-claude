@@ -3,7 +3,7 @@
 <p>Chef Claude App is an AI-powered recipe assistant that helps users generate and explore delicious recipes based on their available ingredients. The application provides an interactive and user-friendly interface to assist with meal planning and cooking suggestions.</p>
 
 <h2>Live Demo</h2>
-<a href="https://chef-claude-iota.vercel.app/" style="text-decoration: none">Make a recipe</a>
+<a href="https://chef-claude-iota.vercel.app/" >Make a recipe</a>
 
 <h2>Features</h2>
 <ul>
